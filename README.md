@@ -32,7 +32,7 @@ A user-friendly and interactive React.js application that converts currencies us
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/react-currency-converter.git
+git clone https://github.com/Nikhildhasmana89/react-currency-converter.git
 cd react-currency-converter
 npm install
 npm start
